@@ -24,6 +24,7 @@ for(let i = 0; i < konutKredileri.length; i++) {
     console.log("<li>" + konutKredileri[i] + "</li>")
 }
 
+console.log("deneme")
 
 console.log("</ul>")
 
